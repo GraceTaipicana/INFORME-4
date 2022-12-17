@@ -24,6 +24,30 @@ Aplicar los conocimientos adquiridos de la ley de Ohm en circuitos en paralelo y
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/116777044/208266992-7d6ae297-549c-4ed1-9d74-fb20228629b0.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208266995-f6499ea9-5712-4965-8f85-551161da993d.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267002-43f3f67a-8f78-45bb-9c4d-f4dc31772185.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267006-c41340f9-70ac-460f-be3b-d10cb3317352.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267029-f445371b-0850-4c0f-a947-3d3acdc863b5.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267031-2417fb00-af47-46f8-a750-27a458cdd23d.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267037-5abf7d46-1bbb-4873-a360-569b54fa8c7b.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267041-7925b027-bf89-46bf-a176-8b9fe33c58ca.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267046-2f38da1e-fbdc-46d8-92fa-d72e3e24667e.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267052-e716f20a-b250-45a6-82dc-e57d87abfb03.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267056-a9588bd0-b949-4366-9f4c-ee61a6022115.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208267058-a43eee90-e7b3-464f-866e-9d36603300e3.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
