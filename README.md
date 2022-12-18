@@ -251,23 +251,32 @@ ciones:
 
 (a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra
 
+![image](https://user-images.githubusercontent.com/116777044/208270643-e5234a0f-543f-4343-b6db-3995a957c399.png)
 
 (b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 
 ![image](https://user-images.githubusercontent.com/116777044/207734988-7d5ed088-c006-41b4-8e8b-adc9567a149c.png)
 
-46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puen-
+![image](https://user-images.githubusercontent.com/116777044/208270658-e788ee7f-c058-4667-ae05-b2595737c0e8.png)
+
+46. Se conecta una resistencia de valor desconocido a un circuito puente Wheatstone. Los parámetros del puen-
 te en equilibrio se establecen como sigue: RV 5 18 kÆ y R2 /R4 5 0.02. ¿Cuál es RX
 
-48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una tempe-
+![image](https://user-images.githubusercontent.com/116777044/208270673-77eea077-9bf3-4861-93d8-8a35bcca69f0.png)
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura
 ratura de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la fi-
 gura 7-60.
 
 ![image](https://user-images.githubusercontent.com/116777044/207735472-8b28512f-d1a9-4f46-b547-4459e787c8d8.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270680-a3b9d362-fbad-4daa-b07f-987191718fd6.png)
+
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
 ![image](https://user-images.githubusercontent.com/116777044/207735526-e6394417-0a12-48cc-9f7a-d7f6f9d34762.png)
+
+SI SON CORRECTAS 
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, iden-
 tifíquela.
@@ -278,33 +287,67 @@ tifíquela.
 
 ![image](https://user-images.githubusercontent.com/116777044/207735700-cb56f3a0-c82e-458e-a7ce-8ec2d3936ff4.png)
 
+VA=15V
+
+VB=0
+
+Vc= 0
+
 EJERCICIOS CAPITULO  8
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
 ![image](https://user-images.githubusercontent.com/116777044/207736184-de42952f-47b6-4da3-b6d4-e7c90913abeb.png)
 
+A)
+
+![image](https://user-images.githubusercontent.com/116777044/208270721-17b18841-a360-4621-82ff-6865d9ce69a8.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/116777044/208270728-3352bcdd-8bad-4185-8cef-756bdfb8216f.png)
+
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/116777044/208270807-b7103b41-ad79-41fa-9f0c-753db2f3c964.png)
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![image](https://user-images.githubusercontent.com/116777044/207736894-5b7d5732-cfcc-4d60-8297-f4fd33e24cda.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270810-158585df-464e-42b8-81f9-3c0c883f0c31.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270820-e1cef657-d80f-423f-926f-4f25ed0c7d89.png)
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
 de la rama R2 de la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/116777044/207736973-34b036f8-37f6-4e5a-83e5-be90afae33de.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270836-fbdc8af6-b621-41bc-a878-4fcba82488a3.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270839-d2a5a3d4-9ad6-4046-b610-a22ec1c2b76a.png)
+
+CORRIENTE TOTAL
+
+![image](https://user-images.githubusercontent.com/116777044/208270847-86d9cc2f-eb24-432b-be2c-a3bda6cb5101.png)
+
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostra-
 dos en la figura 8-71.
 
 ![image](https://user-images.githubusercontent.com/116777044/207737162-8946a97a-c461-4541-9286-78b6f7aef8a8.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270863-0d024262-7309-4334-8331-7ae28d969516.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270867-e859c958-bcdb-483f-a19a-2ff98f1eb250.png)
+
 12. Repita el problema 11 si R2 es de 10 kÆ.
 
 ![image](https://user-images.githubusercontent.com/116777044/207737235-28e4f77a-ec5d-4219-ae8a-8af67d9ad077.png)
 
-14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la co-
+![image](https://user-images.githubusercontent.com/116777044/208270876-e83022db-4c85-4a4a-a92f-3ffad31b684e.png)
+
+14. Los interruptores muestran en la figura 8-74 se cierran en secuencia, SW1 primero. Determinar la co-
 rriente a través de R4 después del cierre de cada interruptor.
 ![image](https://user-images.githubusercontent.com/116777044/207737296-b0ff97f4-34c8-4549-aa9a-2606f74e0e40.png)
 
@@ -313,47 +356,82 @@ de las terminales A y B.
 
 ![image](https://user-images.githubusercontent.com/116777044/207737364-e81bc95a-5c20-4216-b5ed-e89249358755.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270910-9aa35b3d-ab7f-4ecc-9150-b5ccb86fbaae.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270915-78130f7b-1e89-4295-8dde-0d77c40d96b3.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270918-66661e03-f952-4a63-b872-845a9f54a194.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270923-5aa26a04-11f0-40f3-80ca-00d82412b735.png)
+
 *18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
 
 ![image](https://user-images.githubusercontent.com/116777044/207737423-761fde3e-19ee-4112-9776-a825ec97d433.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270933-4ab9dc04-059e-4799-8909-b838fb99fbfa.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270937-e164a13d-a178-4dde-987c-296afa19ed4d.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270945-62a414ac-f505-4ef4-833b-68c5e50e642d.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270948-8a56de03-7f9e-45f4-856e-aa8920bbc679.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270958-fe08603c-30e7-4b27-a859-9be557e1d975.png)
+
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
 ![image](https://user-images.githubusercontent.com/116777044/207737497-ed8ef602-d457-4ec0-ac08-6edf0af9d8da.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270965-8fcb5725-e421-4e5c-8988-47b41354f556.png)
 
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las termina-
 les A y B.
 
+
 ![image](https://user-images.githubusercontent.com/116777044/207737872-9f80cf2a-c585-456a-a6eb-d998e64bfde4.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208270971-abd92c92-806f-4bbb-b327-987aaf029040.png)
 
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la fi-
 gura 8-77.
 ![image](https://user-images.githubusercontent.com/116777044/207738166-d0b1c765-be20-4001-855c-85ed51ddaa77.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208270986-f1c3d1b0-8e2f-432c-a115-0b98fa06de7f.png)
+
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
 R8 5 8 kÆ.
 ![image](https://user-images.githubusercontent.com/116777044/207738366-eb2ead31-afef-4379-9cf4-ceaa5f4d501b.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208271002-2071ab9b-9f55-4a4b-b4fd-cb1d1aaa889a.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208271021-5db9e2c8-1d76-463e-a534-907934133397.png)
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
 ![image](https://user-images.githubusercontent.com/116777044/207738421-0a55af52-c941-435d-8fc0-1767ce02dbaf.png)
 
-30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. De-
+![image](https://user-images.githubusercontent.com/116777044/208271039-aae881fa-be86-4209-ba88-f9e51b4cf4ed.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Delaware-
 termine el valor apropiado de RL en cada caso.
 
 ![image](https://user-images.githubusercontent.com/116777044/207738463-f5e693ff-1b47-4b59-97ee-bddb61cfb6d9.png)
+
+![image](https://user-images.githubusercontent.com/116777044/208271055-6daec2d9-542a-4f67-becc-4e7ff28c52b8.png)
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferen-
 cia de potencia máxima en el circuito de la figura 8-86?
 
 ![image](https://user-images.githubusercontent.com/116777044/207738520-136a4b37-6594-47bb-860e-0c105565b597.png)
 
+![image](https://user-images.githubusercontent.com/116777044/208271068-b424efd0-77ae-43d1-89e4-3440b506a5c8.png)
+
 34. En la figura 8-88, convierta cada red delta en una red Y.
 
 ![image](https://user-images.githubusercontent.com/116777044/207738557-20ca7e36-6ea4-452b-a6d7-9edebc5eb420.png)
 
-36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+![image](https://user-images.githubusercontent.com/116777044/208271079-544d3f1c-c6fa-4d04-86f8-6ead968c2ba4.png)
 
-![image](https://user-images.githubusercontent.com/116777044/207738657-61f8c4aa-9390-4502-97ab-aad3eb50adf9.png)
+
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------
 
