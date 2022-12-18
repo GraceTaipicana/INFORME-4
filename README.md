@@ -17,7 +17,7 @@ OBJETIVOS GENERALES
 
 Analizar y desarrollar los ejercicios propuestos con los conceptos de fundamentos de circuitos electrónicos que vamos a conocer en la revisión de la teoría de los temas que se nos van a introducir.
 
-OBJETIVOS ESPECÍFICOS Analizar los circuitos en serie y en paralelo, sus cálculos, características y funciones. Identificar las leyes de Kirchhoff, aplicar sus fórmulas y casos en los circuitos dados.
+OBJETIVOS ESPECÍFICOS Analizar los circuitos en serie y en paralelo, sus cálculos, características y funciones. Identificar que teorema  podemos aplicar.
 
 Aplicar los conocimientos adquiridos de la ley de Ohm en circuitos en paralelo y en serie para la resolución de ejercicios.
 
@@ -438,14 +438,14 @@ cia de potencia máxima en el circuito de la figura 8-86?
 
 VIDEO
 
-
+https://share.vidyard.com/watch/XLjthvy96icaQCfu6BtUCi?
 
 -------------------------------------------------------------------------------------------
 CONCLUSIONES
 
-Se establece que gracias al análisis y desarrollo de los temas estudiados podemos denotar la importancia de estos métodos, reconocer la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas y los conceptos relacionados a la electrónica fundamental también la aplicación de las leyes de kirchhoff en los circuitos dados en los problemas , la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
+Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente utiles al momento de resolver circuitos ya con más complejidad.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-BIBLIOGRAFÍA
+BIBLIOGRAFÍA 
 
 Floyd, Thomas.L. (sf). Floyd Octava Edición principios de circuitos eléctricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20El electronicos%208va.edicion-%20Floyd.pdf
