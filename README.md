@@ -283,6 +283,7 @@ tifíquela.
 
 ![image](https://user-images.githubusercontent.com/116777044/207735584-f761e2c5-597f-4117-9e98-45e2001384bf.png)
 
+EL MULTIMETRO QUE MIDE 81,8 ES INCORRECTO 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 ![image](https://user-images.githubusercontent.com/116777044/207735700-cb56f3a0-c82e-458e-a7ce-8ec2d3936ff4.png)
